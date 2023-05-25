@@ -11,19 +11,13 @@ conda env create --file=ENV.yml
 ```
 ### Directory Related Instructions
 ```
-cd code_supplementary
+cd source
 ```
 <!-- Make the following directories to store results:
 ```
-mkdir logs/syn1
-mkdir logs/syn4
-mkdir logs/syn5
-mkdir results/syn1
-mkdir results/syn4
-mkdir results/syn5
-mkdir saved_model/syn1
-mkdir saved_model/syn4
-mkdir saved_model/syn5
+mkdir logs/<dataset_name>
+mkdir results/<dataset_name>
+mkdir saved_model/<dataset_name>
 ```
 -->
 
