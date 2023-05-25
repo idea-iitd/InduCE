@@ -1,6 +1,6 @@
 # InduCE: Inductive Counterfactual Explanations for Graph Neural Networks
- 
-![InduCE-Pipeline](https://github.com/Samidha09/InduCE/blob/master/induce.png)
+
+![InduCE-Pipeline](https://github.com/idea-iitd/InduCE/blob/main/induce_diagram.png)
 Fig: Pipeline of the policy learning algorithm in INDUCE. δ indicates the maximum number of allowed perturbations.
 
 
